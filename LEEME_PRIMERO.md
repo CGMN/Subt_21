@@ -4,7 +4,9 @@ Crea tablas desde el archivo SIGFE
 Hay dos script, uno es para hacer las tablas a nivel de servicios de salud,
 el otro es a nivel de establecimientos
 
-Módulos necesarios: xlrd, csv, time, pandas, numpy, tkinter, openpyxl, traceback
+Módulos necesarios: xlrd, csv, time, pandas, numpy, tkinter, openpyxl, traceback.
+
+En el script están los comentarios sobre lo que hace el código
 
 USO:
 El programa pedirá que se le indique cual es el archivo, debe ser un csv.
